@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Tanmay
+Build-Jdk: 13.0.1
+Implementation-Title: bus-form-handling
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.busdetails
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/bus-form-handl
+ ing/
+Created-By: Maven Integration for Eclipse
+
